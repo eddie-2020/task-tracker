@@ -1,12 +1,9 @@
-import Todo from "./components/Todo";
-
-function App() {
+const App = () => {
   return (
     <div>
-      <h1>My Todos</h1>
-      <Todo text="Learn React" />
+      <h1>Hello</h1>
     </div>
   );
-}
+};
 
 export default App;
