@@ -2,6 +2,10 @@
 
 This is the project includes the react ui as well as JSON-server for our mock backend
 
+![](./src/assets/screenshots/CaptureXXXII.PNG)
+
+![](./src/assets/screenshots/CaptureXXXIII.PNG)
+
 ## Usage
 
 ### Install dependencies
