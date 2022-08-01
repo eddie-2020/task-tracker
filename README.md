@@ -1,4 +1,4 @@
-# React Crash Course 2021 (Task Tracker App)
+# Task Tracker App
 
 This is the project includes the react ui as well as JSON-server for our mock backend
 
