@@ -43,6 +43,3 @@ Contributions, issues, and feature requests are welcome!
 
 ## Show your support
 Give a :star: if you like this project.
-
-## Acknowledgments
-* Original tutorial [YouTube crash course](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
